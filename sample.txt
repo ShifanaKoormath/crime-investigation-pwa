@@ -1,0 +1,7 @@
+Crime Head: Assault
+Date of Incident: 2021-07-12
+Location: Central Park, New York
+Description: A person was attacked by an unknown assailant while jogging. The suspect used a blunt object and fled the scene before police arrived. The victim was left with minor injuries, but no serious harm was reported. Witnesses mentioned seeing a man in a blue jacket running away.
+Witnesses: One witness saw a man in a blue jacket running away from the scene, but could not provide further details.
+Investigation: The suspect has been identified through CCTV footage, but has not yet been apprehended.
+Geospatial Coordinates: Latitude: 40.785091, Longitude: -73.968285

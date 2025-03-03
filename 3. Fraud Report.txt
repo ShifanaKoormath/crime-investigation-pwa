@@ -1,0 +1,9 @@
+3. Fraud Report
+Incident Type: Online Fraud
+Date: February 15, 2025
+Time: 2:00 PM
+Location: Online (Fake E-commerce Website)
+Victim: Ms. Anjali Menon
+Description:
+Ms. Anjali Menon reported being scammed by a fraudulent e-commerce website. She purchased a mobile phone worth ₹15,000, but never received the product. The website is no longer accessible, and her payment was made via UPI transfer. Cybercrime authorities are investigating the website’s operators.
+
