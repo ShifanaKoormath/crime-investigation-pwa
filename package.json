@@ -1,0 +1,21 @@
+{
+  "name": "crime-investigation---copy",
+  "version": "1.0.0",
+  "homepage": "https://ShifanaKoormath.github.io/crime-investigation-pwa",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-webmanifest": "^2.13.3",
+    "parcel": "^2.13.3"
+  }
+}
